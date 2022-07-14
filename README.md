@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Benneth98
 - 👀 I’m interested in Programming and Data Analytics
+- 🌱 I Studied BSc Mathmatical and Computer Sciences
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Software Development,Data Analysis Projects and Python Projects.
 - 📫 How to reach me benerth.sambo@gmail.com
