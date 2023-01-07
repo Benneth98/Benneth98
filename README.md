@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benneth98
-- 👀 I’m interested in Software Development and Data Analytics.
+- 👀 I’m interested in Software Development,Data Analytics and Data Engineering .
 - 🌱 I Studied BSc Mathmatical and Computer Sciences.
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 I’m currently learning meta back-end development at coursera.
 - 💞️ I’m looking for an internship / graduate entry-level to enhance my practical knowledge.
 - 📫 How to reach me benerth.sambo@gmail.com
 - 💞️ My Programming Languages: JAVA,Python,PostgresSQL and Javascript,HTML and CSS.
